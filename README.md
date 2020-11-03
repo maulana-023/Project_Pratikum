@@ -11,6 +11,6 @@ Kelas   : TI.20. A.1
 Pada lab 1 pertemuan ke 6, Saya di beri tugas oleh Dosen  mempelajari Operator Aritmatika menggunakan bahasa pemograman python. 
 ! [Gambar1](pict/gambar.PNG)
  >Penggunaan end digunakan untuk menambahkan kata yang dicetak di akhir baris.
-![Gambar2](pict/gambar1.PNG)
+! [Gambar2](pict/gambar1.PNG)
  >Penggunaan print() digunakan untuk mencetak output, seperti syntax dibawah ini :
-![Gambar3](pict/gambar2.PNG)
+! [Gambar3](pict/gambar2.PNG)
