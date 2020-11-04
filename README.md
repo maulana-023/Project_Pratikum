@@ -15,5 +15,5 @@ Pada lab 1 pertemuan ke 6, Saya di beri tugas oleh Dosen  mempelajari Operator A
  * Penggunaan print() digunakan untuk mencetak output, seperti syntax dibawah ini :<br>
 ![Picture](pict/gambar2.PNG)
  * Syntax dibawah ini digunakan untuk menampilkan output berupa string<br>
- ![Picture](pict/gambar3.PNG)
- .
+![Picture](pict/gambar3.PNG)
+ '
